@@ -6,10 +6,9 @@ It also opened the possibility for making solutions that can wrest sovereignty a
 
 Some of the most technologically advanced projects in and out of the blockchain space turn to functional programming for fault tolerance, and scalability, while offering superior approaches to handle parallelization and distribution.
 
-That's exactly my circle of interest.
-If you are a #frontend or a #backend developer, You should set your eyes on this space and prepare for what's coming in the upcoming years.
+**That's exactly my circle of interest.**
 
-<h3>Useful libs/tools</h3>
+<h2>Useful libs/tools</h2>
 below is a selection of tools that I have created to help me stay in the right lane
 
 to be continued...
