@@ -1,4 +1,4 @@
-![Lambda image](https://preview.redd.it/73ubrrp1mxm41.png?auto=webp&s=b27e3fce7ef2ad2240e61d7b410b4c3cad533a46)
+![Lambda image](./banner.png)
 <h1>The motivation</h1>
 
 By the end of 2021, I had been bitten by the crypto bug. It lived at the intersection of many of my interests, and also opened the possibility of creating solutions that could wrest sovereignty away from the oligarchy and back to the people.
