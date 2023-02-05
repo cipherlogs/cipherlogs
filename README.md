@@ -1,4 +1,4 @@
-![Lambda image](./banner.png)
+![Lambda image](./logo.png)
 <h1>The motivation</h1>
 
 By the end of 2021, I had been bitten by the crypto bug. It lived at the intersection of many of my interests, and also opened the possibility of creating solutions that could wrest sovereignty away from the oligarchy and back to the people.
