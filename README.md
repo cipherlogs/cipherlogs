@@ -5,7 +5,7 @@ By the end of 2021, I had been bitten by the crypto bug. It lived at the interse
 
 Some of the most technologically advanced projects, both within and outside of the blockchain space, turn to functional programming for fault tolerance and scalability, offering superior approaches for handling parallelization and distribution.
 
-**That's exactly my area of interest.**
+**That's exactly my area of interest.** My passion lies in making a real difference in people's lives. I see two paths to achieving this: building products and solutions with tangible impact, and empowering other developers and engineers to do the same.
 
-<h2>Useful libs/tools</h2>
-Below is a selection of tools that I have created to help me stay on track. To be continued...
+
+See what [S909](https://github.com/cipherlogs/s909) can do for you.
