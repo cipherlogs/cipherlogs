@@ -7,5 +7,6 @@ Some of the most technologically advanced projects, both within and outside of t
 
 **That's exactly my area of interest.** My passion lies in making a real difference in people's lives. I see two paths to achieving this: building products and solutions with tangible impact, and empowering other developers and engineers to do the same.
 
+<br>
 
-See what [S909](https://github.com/cipherlogs/s909) can do for you.
+**See what [S909](https://github.com/cipherlogs/s909) can do for you.**
