@@ -1,10 +1,13 @@
 ![Lambda image](./logo.png)
 <h1>The motivation</h1>
 
-Some of the most technologically advanced projects, both within and outside of the blockchain space, turn to functional programming for fault tolerance and scalability, offering superior approaches for handling parallelization and distribution.
+By the end of 2021, I had been bitten by the crypto bug. It lived at the intersection of many of my interests,
+and also opened the possibility of creating solutions that could wrest sovereignty away from the oligarchy and back to the people.
 
-**That's exactly my area of interest.** My passion lies in making a real difference in people's lives.
+Only this can make a truly enduring difference in people's lives.
 
-<br>
+Coupled with the elegance of functional programming languages, it is a match made in tech heaven.
 
-**See what [S909](https://github.com/cipherlogs/s909) can do for you.**
+<br />
+
+**That's exactly my area of interest.**
